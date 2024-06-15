@@ -20,5 +20,5 @@ Unnecessary data need to be removed from the raw data by using Power Query.
 **Dashboard:**
   - [Download the file](https://github.com/revath07/powerbi-dashboard/blob/main/powerbiproject1.pbix) and open in Power BI Desktop for interactive viewing.
   - [See a screenshot](https://github.com/revath07/powerbi-dashboard/blob/main/Document1.pdf) of the Dashboard in pdf.
-  - [video of Final DashBoard](https://github.com/revath07/powerbi-dashboard/blob/main/bi%20-%20Made%20with%20Clipchamp_1715522529435%20(1).mp4)
+  - [Video of Final DashBoard](https://github.com/revath07/powerbi-dashboard/blob/main/bi%20-%20Made%20with%20Clipchamp_1715522529435%20(1).mp4)
   
