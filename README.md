@@ -1,28 +1,24 @@
 # Adidas DashBoard Report Using Power BI
+**Setup**
+  - This project requires Power BI Desktop.
+  - We will use the provided Adidas Sales Dataset for the Creation Of DashBoard by analyzing the Adidas Sales Report.
 
-Hey, fellow professionals! Just wanted to share my latest obsession - Adidas Analysis Report using Power BI. It's a game changer for data analysis and visualization. No more boring spreadsheets, just dynamic and interactive dashboards that make data come to life. 
+**Cleaning the Data in Powe BI**
+Unnecessary data need to be removed from the raw data by using Power Query.
 
-Power BI is incredibly user-friendly and integrates seamlessly with all your favorite data sources. Trust me, once you start using it, you won't be able to go back to the old ways.
+**STEPS:**
+  - Load Data
+  - Organize & Prepare Tables
+  - Connect Tables for Data Model
+  - Calculation Measures
+  - Dashboard Design
+  - Pie Chart
+  - Line Chart
+  - Bar Charts
+  - Pivot Table
 
-Let's connect and geek out over Power BI together!
-
-Key Features:
-
-    **Dynamic Dashboards**: Create interactive visualizations that are easy to navigate.
+**Dashboard:**
+  - [Download the file](https://github.com/revath07/powerbi-dashboard/blob/main/powerbiproject1.pbix) and open in Power BI Desktop for interactive viewing.
+  - [See a screenshot](https://github.com/revath07/powerbi-dashboard/blob/main/Document1.pdf) of the Dashboard in pdf.
+    
   
-    **Data Integration**: Connect with multiple data sources effortlessly.
-  
-    **User-Friendly**: Intuitive interface that simplifies complex data analysis.
-  
-    **Custom Visuals**: Explore custom visuals from the Power BI marketplace.
-  
-    **Mobile Optimization**: Ensure your reports are accessible on the go.
-
-Benefits:
-
-    Enhanced data analysis capabilities
-  
-    Improved decision-making with real-time insights
-  
-    Greater engagement through interactive dashboards
-Feel free to check out the project and contribute your ideas or enhancements. Let's harness the power of data visualization together!
